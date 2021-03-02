@@ -1,2 +1,4 @@
-# wormword
-A simple Java game where you control an initial letter and must capture others to complete the objective's word
+# Snake Game
+A simple Java game made during study sessions
+https://www.youtube.com/watch?v=bI6e6qjJ8JQ
+
